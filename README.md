@@ -3,3 +3,4 @@ Menggunakan Model KNN dengan K=11 menggunakan dataset 5 fitur
 ## NB: 
     model with name _1 = model without normalisasi
 ## Demo
+    prediksi-penyakit-jantung ∙ main ∙ main.py
